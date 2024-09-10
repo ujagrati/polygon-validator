@@ -1,0 +1,13 @@
+# Validator Configuration
+validator_address: "0xd48611f40a37623bbcf9f047b8538177d879bad0"
+
+# RPC Configuration
+rpc_endpoint: "https://rpc-amoy.polygon.technology/"
+
+# Telegram Alert Configuration
+telegram_bot_token: "7341663993:AAHME3dKKLdIWBFurKuCBzmp2NtkO0j-ElE"
+telegram_chat_id: "-1002301387608"
+
+# Monitoring Settings
+poll_interval_seconds: 60
+height_sync_tolerance: 1
